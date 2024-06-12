@@ -1,11 +1,18 @@
 ## Project Anuvaad
-Anuvaad is an AI based open source Document Translation Platform to translate documents in Indic languages at scale. Anuvaad provides easy-to-edit capabilities on top the plug & play NMT models. Separate instances of Anuvaad are deployed to Diksha (NCERT), Supreme Court of India (SUVAS) and Supreme Court of Bangladesh (Amar Vasha).
+Anuvaad is an AI based open source Document Translation Platform to _digitize and translate_ documents in Indic languages at scale. Anuvaad provides easy-to-edit capabilities on top the plug & play NMT models. Separate instances of Anuvaad are deployed to [Diksha](https://diksha.anuvaad.org/) (NCERT), [Supreme Court of India](https://government.economictimes.indiatimes.com/news/technology/ai-backed-suvas-translation-tool-intended-to-make-legalese-simpler-court-proceedings-faster-law-minister/102648151)(SUVAS) and [Supreme Court of Bangladesh](https://www.tbsnews.net/bangladesh/court/supreme-court-launches-translation-software-amar-vasha-204100) (Amar Vasha).
+
+Anuvaad is an open-sourced project funded by EkStep foundation.
+
+It was bootstrapped by EkStep Foundation in late 2019 as a solution to enable easier translation of legal documents from English to Indic languages & vice-versa. Creating Anuvaad platform allowed legal entities to digitize & translate the Orders/Judgements using an easy to use user interface.
+
 <br>
 <br>
-![image](https://github.com/project-anuvaad/.github/assets/1707796/1bec9c93-1431-4bb6-a472-04031b7c6a1a)
+![image](https://github.com/project-anuvaad/.github/assets/1707796/832fe4a8-48b6-494c-a6d9-a9adc18ddd3c)
 <br>
 <br>
-Project Anuvaad is REST APIs driven and hence any third party system can use various features like sentence translation, layout detection etc
+Anuvaad leverages state of the art AI/ML models including NMT, OCR, Layout detection to provide high level of accuracy. Project Anuvaad was envisioned to be end to end open sourced solution for document translation across multiple domains.
+
+`Project Anuvaad` is REST APIs driven and hence any third party system can use various features like sentence translation, layout detection etc.
 
 <!--
 
