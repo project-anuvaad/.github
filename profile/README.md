@@ -7,10 +7,16 @@ It was bootstrapped by EkStep Foundation in late 2019 as a solution to enable ea
 
 <br>
 <br>
-![image](https://github.com/project-anuvaad/.github/assets/1707796/832fe4a8-48b6-494c-a6d9-a9adc18ddd3c)
+<p align="center">
+  <a href="anuvaad.org"><img src="https://github.com/project-anuvaad/.github/assets/1707796/832fe4a8-48b6-494c-a6d9-a9adc18ddd3c?raw=true" alt="Anuvaad" width="500" height="500"></a>
+</p>
+
 <br>
 <br>
+
 Anuvaad leverages state of the art AI/ML models including NMT, OCR, Layout detection to provide high level of accuracy. Project Anuvaad was envisioned to be end to end open sourced solution for document translation across multiple domains.
+
+<br>
 
 `Project Anuvaad` is REST APIs driven and hence any third party system can use various features like sentence translation, layout detection etc.
 
