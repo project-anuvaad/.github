@@ -1,9 +1,25 @@
-## Project Anuvaad
+
+<img width="1175" alt="image" src="https://github.com/project-anuvaad/anuvaad/assets/1707796/9dd91b6f-1aa3-4072-9f14-9fc3472641b7">
+
+<p align="center">
+    <em>Bridging India's language barrier by AI-driven multilingual NMT models</em>
+</p>
+
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT" target="_blank">
+        <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </a>
+</p>
+
+***
+
 Anuvaad is an AI based open source Document Translation Platform to _digitize and translate_ documents in Indic languages at scale. Anuvaad provides easy-to-edit capabilities on top the plug & play NMT models. Separate instances of Anuvaad are deployed to [Diksha](https://diksha.anuvaad.org/) (NCERT), [Supreme Court of India](https://government.economictimes.indiatimes.com/news/technology/ai-backed-suvas-translation-tool-intended-to-make-legalese-simpler-court-proceedings-faster-law-minister/102648151)(SUVAS) and [Supreme Court of Bangladesh](https://www.tbsnews.net/bangladesh/court/supreme-court-launches-translation-software-amar-vasha-204100) (Amar Vasha).
 
-Anuvaad is an open-sourced project funded by EkStep foundation.
+Anuvaad is an open-sourced project funded by `EkStep foundation`.
 
 It was bootstrapped by EkStep Foundation in late 2019 as a solution to enable easier translation of legal documents from English to Indic languages & vice-versa. Creating Anuvaad platform allowed legal entities to digitize & translate the Orders/Judgements using an easy to use user interface.
+
+Read more about Anuvaad @ https://anuvaad.sunbird.org
 
 <br>
 <br>
